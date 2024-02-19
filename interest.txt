@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking 320 because as an aspiring software engineer, I 
+want to be very well rounded and I feel by taking intro to data science I 
+can get a good understanding of how to leverage data to provide better 
+technological solutions
+
